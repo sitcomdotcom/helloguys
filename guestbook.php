@@ -1,10 +1,11 @@
 <html>
   <head>
     <title> :: 방명록 :: </title></head>
-  <body>
+  <body
     background="https://dl8.glitter-graphics.net/pub/1484/1484248avdo5gytjd.gif"
 	  bgcolor="#99cccc"
-          text="#333333"
+          text="#333333">
+	  <br><br><br>
     <h2>안녕하세요 허름한 방명록입니다</h2>
     <h3>자유롭되 이상한 말은 적지 말아주세요</h3>
     <form action="" method="post">
